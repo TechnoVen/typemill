@@ -15,6 +15,7 @@ ADD_ROW_ABOVE: aggiungi la riga sopra
 ADD_ROW_BELOW: aggiungi la riga sotto
 ALL_USERS: Tutti gli utenti
 ALT_TEXT: Testo alternativo
+ALTERNATIVE_TEXT_FOR_THE_HERO_IMAGE: Testo alternativo per l'immagine hero
 AUTHOR: Autore
 BACK_TO_STARTPAGE: torna alla pagina iniziale
 BOLD: grassetto
@@ -78,6 +79,7 @@ GOOGLE_SITEMAP: Sitemap di Google
 HEAD: Intestazione
 HEADLINE_ANCHORS: Ancoraggi del titolo
 HEADLINE: Titolo
+HERO_IMAGE: Immagine Hero
 HIDE: Nascondi
 HIDE_PAGE_FROM_NAVIGATION: Nasconde la pagina dalla navigazione
 HOME: home
@@ -87,11 +89,12 @@ HR: Linea orizzontale
 IF_NOT_FILLED__THE_DESCRIPTION_IS_EXTRACTED_FROM_CONTENT_: Se non compilato, la descrizione viene estratta dal contenuto.
 IMAGE: Immagine
 IMAGES: Immagini
+IMAGE_URL__READ_ONLY_: Immagine URL (sola lettura)
 ITALIAN: Italiano
 ITALIC: corsivo
 LANGUAGE: Lingua
 LANGUAGE_ADMIN: Lingua (admin-ui)
-LANGUAGE_ATTR: Language Attribute (website)
+LANGUAGE_ATTR: Attributo Lingua (sito)
 LAST_MODIFIED_LIVE__READONLY_: Ultima modifica (sola lettura)
 LAST_NAME: Cognome
 LEFT: Sinistra
@@ -103,6 +106,7 @@ LOGO: Logo
 LOGOUT: Esci
 MANUAL_DATE: Data manuale
 MARKDOWN: Markdown
+MAXIMUM_SIZE_FOR_AN_IMAGE_IS_5_MB__HERO_IMAGES_ARE_NOT_SUPPORTED_BY_ALL_THEMES_: La dimensione massima per un'immagine è di 5 MB. Le immagini hero non sono supportate da tutti i temi.
 MENU: Menu
 META_DESCRIPTION: Descrizione
 META: Metadati
@@ -169,6 +173,7 @@ UNKNOWN: Ignoto
 UPDATE_USER: Aggiorna utente
 UPLOAD: carica
 UPLOAD_FILE: Carica un file
+UPLOAD_AN_IMAGE: carica un'immagine
 USE_2_TO_20_CHARACTERS: Usa da 2 a 20 caratteri.
 USE_2_TO_40_CHARACTERS: Usa da 2 a 40 caratteri.
 USE_A_VALID_LANGUAGE_ATTRIBUTE: Use a valid language attribute
